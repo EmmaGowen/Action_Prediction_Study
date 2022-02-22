@@ -1,0 +1,1 @@
+install.packages(c("tidyverse", "gganimate", "dplyr", "Hmisc", "emmeans", "afex", "ggpubr", "rstatix", "broom", "coda", "Matrix", "BayesFactor", "bayestestR", "naniar", "car", "rcompanion", "effsize", "effectsize", "lsr"))
